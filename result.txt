@@ -1,0 +1,100 @@
+361219,Lavern,Tifft,A,21,16,3,17.0,255.0,Great Oak University Department of Computer Engineering,South Fork University Department of Marketing
+438329,Marlowe,Holmes,B,26,12,2,23.0,345.0,Eagle Mountain University Department of Computer Engineering,Martin Luther King University Department of Computer Engineering
+901007,Cameron,Mitchell,A,24,12,4,21.0,315.0,Broad River University Department of Applied Physics and Applied Mathematics,Laguna Creek University Department of Art History and Archaeology
+678407,Wisdom,Yates,A,26,12,2,23.0,345.0,Eagle Mountain University Department of Computer Engineering,Sunset University Department of Art History and Archaeology
+189612,Lacey,Hutson,A,23,14,3,19.5,292.5,Broad River University Department of Applied Physics and Applied Mathematics,Martin Luther King University Department of Computer Engineering
+420832,Darby,Yates,B,28,6,6,26.5,397.5,Eagle Mountain University Department of Computer Engineering,Cypress University Department of Art History and Archaeology
+201910,Chris,Presley,A,26,13,1,22.75,341.25,Great Oak University Department of Computer Engineering,South Fork University Department of Marketing
+890931,Silver,Hoggard,B,20,18,2,15.5,232.5,Martin Luther King University Department of Computer Engineering,Laguna Creek University Department of Art History and Archaeology
+845623,Harley,Phillips,A,23,16,1,19.0,285.0,Great Oak University Department of Computer Engineering,Sun Valley University Department of Computer Engineering
+720939,Celestine,Jardine,A,23,14,3,19.5,292.5,Cypress University Department of Art History and Archaeology,South Fork University Department of Marketing
+122322,Collyn,Lamar,B,24,13,3,20.75,311.25,Martin Luther King University Department of Computer Engineering,Sunset University Department of Art History and Archaeology
+103779,Harlow,Randal,B,22,15,3,18.25,273.75,Great Oak University Department of Computer Engineering,Sunset University Department of Art History and Archaeology
+441035,Lake,Russel,B,21,15,4,17.25,258.75,Eagle Mountain University Department of Computer Engineering,Martin Luther King University Department of Computer Engineering
+766042,Cedar,Daniel,B,26,12,2,23.0,345.0,Martin Luther King University Department of Computer Engineering,Great Oak University Department of Computer Engineering
+270024,Kim,Tatton,A,26,7,7,24.25,363.75,Cypress University Department of Art History and Archaeology,South Fork University Department of Marketing
+785465,Izzy,Samson,B,23,11,6,20.25,303.75,Meadows University Department of Art History and Archaeology,South Fork University Department of Marketing
+515630,Cherokee,Haynes,B,29,8,3,27.0,405.0,Broad River University Department of Applied Physics and Applied Mathematics,Cypress University Department of Art History and Archaeology
+882741,Hadley,Simen,B,25,13,2,21.75,326.25,Eagle Mountain University Department of Computer Engineering,Cypress University Department of Art History and Archaeology
+836581,Kasey,Sadler,B,26,10,4,23.5,352.5,Cypress University Department of Art History and Archaeology,Great Oak University Department of Computer Engineering
+688703,Shaye,Tindall,B,27,12,1,24.0,360.0,Cypress University Department of Art History and Archaeology,Laguna Creek University Department of Art History and Archaeology
+710606,Tracy,Hughes,B,18,21,1,12.75,191.25,Eagle Mountain University Department of Computer Engineering,South Fork University Department of Marketing
+898056,Sandy,Ryley,A,20,15,5,16.25,243.75,Great Oak University Department of Computer Engineering,Sun Valley University Department of Computer Engineering
+433664,Kendall,Michaelson,B,31,6,3,29.5,442.5,Eagle Mountain University Department of Computer Engineering,Sunset University Department of Art History and Archaeology
+745238,Lennon,Eccleston,A,19,14,7,15.5,232.5,Sunset University Department of Art History and Archaeology,Sun Valley University Department of Computer Engineering
+199304,Jackie,Thorburn,B,27,11,2,24.25,363.75,Cypress University Department of Art History and Archaeology,Martin Luther King University Department of Computer Engineering
+512532,Mackenzie,Eliot,A,24,13,3,20.75,311.25,Great Oak University Department of Computer Engineering,Laguna Creek University Department of Art History and Archaeology
+373232,Reign,Massey,B,29,8,3,27.0,405.0,Cypress University Department of Art History and Archaeology,Laguna Creek University Department of Art History and Archaeology
+290743,Ellis,Johnson,A,32,8,0,30.0,450.0,Broad River University Department of Applied Physics and Applied Mathematics,South Fork University Department of Marketing
+722714,Sheridan,Mann,B,26,12,2,23.0,345.0,Great Oak University Department of Computer Engineering,South Fork University Department of Marketing
+578733,September,Powers,B,24,16,0,20.0,300.0,Sunset University Department of Art History and Archaeology,Sun Valley University Department of Computer Engineering
+839755,Malone,Simms,B,20,16,4,16.0,240.0,Martin Luther King University Department of Computer Engineering,South Fork University Department of Marketing
+691493,Gabby,Westley,A,30,9,1,27.75,416.25,Broad River University Department of Applied Physics and Applied Mathematics,Cypress University Department of Art History and Archaeology
+724069,Morgan,Spooner,A,19,15,6,15.25,228.75,Sunset University Department of Art History and Archaeology,Laguna Creek University Department of Art History and Archaeology
+319430,Toby,Spearing,A,25,12,3,22.0,330.0,Broad River University Department of Applied Physics and Applied Mathematics,Great Oak University Department of Computer Engineering
+965401,Jules,Peck,A,24,12,4,21.0,315.0,Great Oak University Department of Computer Engineering,Sunset University Department of Art History and Archaeology
+818429,Devin,Alfredson,A,22,13,5,18.75,281.25,Great Oak University Department of Computer Engineering,Sun Valley University Department of Computer Engineering
+901426,Rory,Washington,A,29,8,3,27.0,405.0,Eagle Mountain University Department of Computer Engineering,Sun Valley University Department of Computer Engineering
+413404,Channing,Bowman,B,26,9,5,23.75,356.25,Sunset University Department of Art History and Archaeology,Sun Valley University Department of Computer Engineering
+936822,Angel,Paige,A,27,9,4,24.75,371.25,Eagle Mountain University Department of Computer Engineering,Great Oak University Department of Computer Engineering
+775661,Cary,Hawk,B,24,12,4,21.0,315.0,Cypress University Department of Art History and Archaeology,Sun Valley University Department of Computer Engineering
+692124,Wallis,Woodcock,B,24,13,3,20.75,311.25,Broad River University Department of Applied Physics and Applied Mathematics,Laguna Creek University Department of Art History and Archaeology
+776456,Dale,Crisp,B,31,7,2,29.25,438.75,Broad River University Department of Applied Physics and Applied Mathematics,South Fork University Department of Marketing
+926146,Presley,Randall,A,24,12,4,21.0,315.0,Broad River University Department of Applied Physics and Applied Mathematics,Sunset University Department of Art History and Archaeology
+214831,Ora,Minett,B,24,14,2,20.5,307.5,Cypress University Department of Art History and Archaeology,South Fork University Department of Marketing
+597414,Chandler,Abrams,A,29,8,3,27.0,405.0,Meadows University Department of Art History and Archaeology,South Fork University Department of Marketing
+950336,Hartley,Purcell,B,27,10,3,24.5,367.5,Sunset University Department of Art History and Archaeology,South Fork University Department of Marketing
+872204,Raven,Mason,A,23,14,3,19.5,292.5,Broad River University Department of Applied Physics and Applied Mathematics,Laguna Creek University Department of Art History and Archaeology
+838008,Shirley,Stacy,A,23,12,5,20.0,300.0,Martin Luther King University Department of Computer Engineering,Sunset University Department of Art History and Archaeology
+407093,Jojo,Wallace,B,26,10,4,23.5,352.5,Broad River University Department of Applied Physics and Applied Mathematics,Cypress University Department of Art History and Archaeology
+487609,Presley,Woods,B,21,13,6,17.75,266.25,Cypress University Department of Art History and Archaeology,Laguna Creek University Department of Art History and Archaeology
+457034,Dannie,Niles,B,21,19,0,16.25,243.75,Broad River University Department of Applied Physics and Applied Mathematics,Cypress University Department of Art History and Archaeology
+865318,Pip,Waldroup,B,28,8,4,26.0,390.0,Meadows University Department of Art History and Archaeology,South Fork University Department of Marketing
+559994,Fortune,Huxley,B,26,13,1,22.75,341.25,Cypress University Department of Art History and Archaeology,Martin Luther King University Department of Computer Engineering
+270866,Jools,Waller,A,29,9,2,26.75,401.25,Cypress University Department of Art History and Archaeology,Laguna Creek University Department of Art History and Archaeology
+886494,Hadley,Rounds,A,23,11,6,20.25,303.75,Cypress University Department of Art History and Archaeology,Laguna Creek University Department of Art History and Archaeology
+341078,Aaren,Hopkins,B,24,13,3,20.75,311.25,Eagle Mountain University Department of Computer Engineering,Cypress University Department of Art History and Archaeology
+630774,Ellington,Sherburn,A,24,12,4,21.0,315.0,Broad River University Department of Applied Physics and Applied Mathematics,Great Oak University Department of Computer Engineering
+688259,Dallas,Ingram,A,28,7,5,26.25,393.75,Meadows University Department of Art History and Archaeology,Sunset University Department of Art History and Archaeology
+810271,Darby,Poindexter,B,22,16,2,18.0,270.0,Cypress University Department of Art History and Archaeology,Sun Valley University Department of Computer Engineering
+328702,Lynn,Baldwin,B,22,14,4,18.5,277.5,Broad River University Department of Applied Physics and Applied Mathematics,Meadows University Department of Art History and Archaeology
+217678,Shaye,Smalls,A,25,11,4,22.25,333.75,Eagle Mountain University Department of Computer Engineering,Martin Luther King University Department of Computer Engineering
+768559,Taylor,Robert,A,24,13,3,20.75,311.25,Eagle Mountain University Department of Computer Engineering,Sunset University Department of Art History and Archaeology
+438870,Cass,Elwyn,A,22,12,6,19.0,285.0,Martin Luther King University Department of Computer Engineering,South Fork University Department of Marketing
+370742,Charlie,Armstrong,B,24,15,1,20.25,303.75,Great Oak University Department of Computer Engineering,Laguna Creek University Department of Art History and Archaeology
+224990,Peyton,Simms,A,23,16,1,19.0,285.0,Cypress University Department of Art History and Archaeology,Great Oak University Department of Computer Engineering
+949024,Sydney,Abram,B,29,7,4,27.25,408.75,Meadows University Department of Art History and Archaeology,Cypress University Department of Art History and Archaeology
+838608,Jamey,Faulkner,A,23,15,2,19.25,288.75,Broad River University Department of Applied Physics and Applied Mathematics,Great Oak University Department of Computer Engineering
+943272,Jimmie,Roach,B,25,10,5,22.5,337.5,Meadows University Department of Art History and Archaeology,Great Oak University Department of Computer Engineering
+721954,Arden,Frost,B,28,9,3,25.75,386.25,Eagle Mountain University Department of Computer Engineering,Cypress University Department of Art History and Archaeology
+649884,Marlyn,James,A,25,10,5,22.5,337.5,Broad River University Department of Applied Physics and Applied Mathematics,Laguna Creek University Department of Art History and Archaeology
+292955,Blythe,Beckett,B,28,11,1,25.25,378.75,Broad River University Department of Applied Physics and Applied Mathematics,Great Oak University Department of Computer Engineering
+218111,Jerry,Forest,A,24,12,4,21.0,315.0,Sunset University Department of Art History and Archaeology,South Fork University Department of Marketing
+903208,Courtney,Virgo,A,21,13,6,17.75,266.25,Cypress University Department of Art History and Archaeology,Great Oak University Department of Computer Engineering
+586030,Chris,Woodward,B,26,13,1,22.75,341.25,Eagle Mountain University Department of Computer Engineering,Cypress University Department of Art History and Archaeology
+867082,Marlowe,Roydon,B,23,14,3,19.5,292.5,Broad River University Department of Applied Physics and Applied Mathematics,Cypress University Department of Art History and Archaeology
+510357,Malone,Bissette,A,24,14,2,20.5,307.5,Cypress University Department of Art History and Archaeology,Sun Valley University Department of Computer Engineering
+882851,Daly,Philips,A,24,12,4,21.0,315.0,Cypress University Department of Art History and Archaeology,Martin Luther King University Department of Computer Engineering
+258302,Reign,Bloodworth,B,21,16,3,17.0,255.0,Martin Luther King University Department of Computer Engineering,South Fork University Department of Marketing
+545193,Bertie,Ewart,B,24,12,4,21.0,315.0,Martin Luther King University Department of Computer Engineering,Sunset University Department of Art History and Archaeology
+271465,Silver,Benton,B,26,13,1,22.75,341.25,Broad River University Department of Applied Physics and Applied Mathematics,Meadows University Department of Art History and Archaeology
+443337,Kim,Osborne,B,19,15,6,15.25,228.75,Meadows University Department of Art History and Archaeology,Cypress University Department of Art History and Archaeology
+563063,Averill,Sargent,B,20,15,5,16.25,243.75,Cypress University Department of Art History and Archaeology,Great Oak University Department of Computer Engineering
+689288,Page,Sands,A,24,11,5,21.25,318.75,Martin Luther King University Department of Computer Engineering,Great Oak University Department of Computer Engineering
+359480,Karsyn,Mayes,A,23,13,4,19.75,296.25,Meadows University Department of Art History and Archaeology,South Fork University Department of Marketing
+111775,Billie,Fry,B,26,10,4,23.5,352.5,Meadows University Department of Art History and Archaeology,Martin Luther King University Department of Computer Engineering
+394588,Johnie,Priestley,B,25,12,3,22.0,330.0,Cypress University Department of Art History and Archaeology,South Fork University Department of Marketing
+765401,London,Brant,A,25,15,0,21.25,318.75,Martin Luther King University Department of Computer Engineering,Sun Valley University Department of Computer Engineering
+450353,Ariel,Hodson,A,26,14,0,22.5,337.5,Broad River University Department of Applied Physics and Applied Mathematics,Martin Luther King University Department of Computer Engineering
+628461,Teagan,Beckett,A,23,15,2,19.25,288.75,Eagle Mountain University Department of Computer Engineering,Martin Luther King University Department of Computer Engineering
+325729,Temple,Akerman,A,27,11,2,24.25,363.75,Great Oak University Department of Computer Engineering,South Fork University Department of Marketing
+958873,Dale,Woodrow,B,25,14,1,21.5,322.5,Broad River University Department of Applied Physics and Applied Mathematics,Eagle Mountain University Department of Computer Engineering
+524679,Rory,Marsh,A,23,10,7,20.5,307.5,Martin Luther King University Department of Computer Engineering,Great Oak University Department of Computer Engineering
+930986,Stacy,Pound,A,29,6,5,27.5,412.5,Meadows University Department of Art History and Archaeology,Sun Valley University Department of Computer Engineering
+872501,Jewel,Blakesley,A,23,14,3,19.5,292.5,Laguna Creek University Department of Art History and Archaeology,South Fork University Department of Marketing
+872354,Cortney,Chapman,A,27,10,3,24.5,367.5,Meadows University Department of Art History and Archaeology,Eagle Mountain University Department of Computer Engineering
+426522,Logan,Paxton,B,27,11,2,24.25,363.75,Broad River University Department of Applied Physics and Applied Mathematics,Eagle Mountain University Department of Computer Engineering
+473903,Lavern,Vann,B,27,8,5,25.0,375.0,Eagle Mountain University Department of Computer Engineering,Cypress University Department of Art History and Archaeology
+979483,Justice,Colton,A,25,12,3,22.0,330.0,Eagle Mountain University Department of Computer Engineering,Sunset University Department of Art History and Archaeology
+797851,Johnnie,Dabney,B,31,8,1,29.0,435.0,Eagle Mountain University Department of Computer Engineering,Sun Valley University Department of Computer Engineering
+289768,Lennox,Corwin,B,25,14,1,21.5,322.5,Broad River University Department of Applied Physics and Applied Mathematics,Sunset University Department of Art History and Archaeology
