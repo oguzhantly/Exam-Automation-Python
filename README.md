@@ -4,6 +4,9 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/oguzhnatly/Exam-Automation-Python)
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/oguzhnatly@gmail.com)
 
+## Getting Started
+Project can be started with `npm start` command in terminal.
+
 ## Project Description
 In this project, you are supposed to work on a system for university placement exam. We already
 have the following information related with this exam; student information, their answers to

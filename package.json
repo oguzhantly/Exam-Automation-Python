@@ -1,0 +1,29 @@
+{
+    "name": "@oguzhnatly/exam-automation-python",
+    "version": "1.0.0",
+    "description": "Python Exam Automation to check students' answers and place them in universities",
+    "main": "exam_automation.py",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "py exam_automation.py"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/oguzhnatly/Exam-Automation-Python.git"
+    },
+    "keywords": [
+      "python",
+      "python3",
+      "python-script",
+      "python-programming",
+      "python37",
+      "python-automation",
+      "algorithm"
+    ],
+    "author": "Oğuzhan Atalay",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/oguzhnatly/Exam-Automation-Python/issues"
+    },
+    "homepage": "https://github.com/oguzhnatly/Exam-Automation-Python#readme"
+}
