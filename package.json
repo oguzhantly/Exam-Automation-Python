@@ -1,5 +1,5 @@
 {
-    "name": "@oguzhantly/exam-automation-python",
+    "name": "@oguzhnatly/exam-automation-python",
     "version": "1.0.0",
     "description": "Python Exam Automation to check students' answers and place them in universities",
     "main": "exam_automation.py",
@@ -9,7 +9,7 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/oguzhantly/Exam-Automation-Python.git"
+      "url": "git+https://github.com/oguzhnatly/Exam-Automation-Python.git"
     },
     "keywords": [
       "python",
@@ -23,7 +23,7 @@
     "author": "Oğuzhan Atalay",
     "license": "MIT",
     "bugs": {
-      "url": "https://github.com/oguzhantly/Exam-Automation-Python/issues"
+      "url": "https://github.com/oguzhnatly/Exam-Automation-Python/issues"
     },
-    "homepage": "https://github.com/oguzhantly/Exam-Automation-Python#readme"
+    "homepage": "https://github.com/oguzhnatly/Exam-Automation-Python#readme"
 }
