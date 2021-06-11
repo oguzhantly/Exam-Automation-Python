@@ -1,5 +1,5 @@
 # Exam Automation Python
-![GitHub](https://img.shields.io/github/license/oguzhantly/Exam-Automation-Python)
+![GitHub](https://img.shields.io/github/license/oguzhnatly/Exam-Automation-Python)
 ![Python Version](https://img.shields.io/badge/python-v3.7-blue?style=flat&logo=python&logoColor=lightblue)
 ![GitHub last commit](https://img.shields.io/github/last-commit/oguzhnatly/Exam-Automation-Python)
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/oguzhnatly@gmail.com)
